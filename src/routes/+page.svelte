@@ -4,6 +4,6 @@
 </script>
 
 <h1>{templateVar}</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<p>Visit <a href="/sub-page">/sub-page</a> for more.</p>
 
 <ComponentBlock />
